@@ -8,13 +8,13 @@
 
 我的高中母校是松江二中！它的校门长这样
 
-![](C:\Users\86139\Documents\AlexMiao811.github.io\sjez.jpg)
+![](images\sjez.jpg)
 
 ## 兴趣爱好
 
+周末去南京看看风景
 
-
-## 论文发表
+## 风景
 
 还没
 
