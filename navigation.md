@@ -4,9 +4,7 @@
 
 [最喜欢的歌手](Favourite Singer.md)
 
-- - - -
-  * # 近期读书心得分享
-  * [已读书目](已读书目.md)
+[近期读书分享](已读书目.md)
 
 [Coding](coding/PythonNote.md)
 
