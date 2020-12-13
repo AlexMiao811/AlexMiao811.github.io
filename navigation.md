@@ -2,20 +2,15 @@
 
 [About](index.md)
 
-[English]()
+[最喜欢的歌手](Favourite Singer.md)
 
-  * [A Thought on English](english/english-formula.md)
-  * [Phonetic Phonics](english/Phonetic-Phonics.md)
 - - - -
-  * # Advanced
-  * [Stress and Syllables](english/stress.md)
-
-[Math]()
-
-  * [Levy Processes](math/levy_processes.md)
+  * # 近期读书心得分享
+  * [已读书目](已读书目.md)
 
 [Coding](coding/PythonNote.md)
 
 
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
