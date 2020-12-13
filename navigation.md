@@ -6,4 +6,4 @@
 
 [近期读书分享](已读书目.md)
 
-[Coding](coding/PythonNote.md)
+[Coding](PythonNote.md)
